@@ -1,0 +1,23 @@
+ copiar bases de datos del servidor de GV a disco local
+
+WO SCHED MASTER.mdb
+PLATING JR.MDB
+OEE SPM JR MASTER.mdb
+Plating Log Sheet Master.xls
+ATC Electrical Test JR.MDB
+ATC Plating Tables.MDB
+
+
+
+archivo de excel a atc Plating Log Sheet Master.xls
+conexion al servidor de Juarez
+
+
+PLATING CHEMISTRY JR.MDB
+PLATING JR.MDB
+
+
+
+049	2
+052	1
+053	3

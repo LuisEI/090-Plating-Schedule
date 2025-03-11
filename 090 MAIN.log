@@ -1,0 +1,16 @@
+Línea 499: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid1 no era una clase de control cargada.
+Línea 520: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid2 no era una clase de control cargada.
+Línea 541: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid3 no era una clase de control cargada.
+Línea 500: el nombre de la propiedad Bindings de MSFlexGrid1 no es válido.
+Línea 507: el nombre de la propiedad _ExtentX de MSFlexGrid1 no es válido.
+Línea 508: el nombre de la propiedad _ExtentY de MSFlexGrid1 no es válido.
+Línea 509: el nombre de la propiedad _Version de MSFlexGrid1 no es válido.
+Línea 521: el nombre de la propiedad Bindings de MSFlexGrid2 no es válido.
+Línea 528: el nombre de la propiedad _ExtentX de MSFlexGrid2 no es válido.
+Línea 529: el nombre de la propiedad _ExtentY de MSFlexGrid2 no es válido.
+Línea 530: el nombre de la propiedad _Version de MSFlexGrid2 no es válido.
+Línea 542: el nombre de la propiedad Bindings de MSFlexGrid3 no es válido.
+Línea 549: el nombre de la propiedad _ExtentX de MSFlexGrid3 no es válido.
+Línea 550: el nombre de la propiedad _ExtentY de MSFlexGrid3 no es válido.
+Línea 551: el nombre de la propiedad _Version de MSFlexGrid3 no es válido.
+Línea 552: el nombre de la propiedad ScrollTrack de MSFlexGrid3 no es válido.
